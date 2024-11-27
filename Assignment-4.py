@@ -18,4 +18,4 @@ Distance = Distance_Squared ** 0.5
 
 #Output the results
 
-print(f"distance between the points is {Distance_Squared ** 0.5}")
+print(f"Distance between the points is: {Distance_Squared ** 0.5}")
